@@ -705,6 +705,11 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
+webdriverjs-puppet@*:
+  version "1.0.1"
+  resolved "https://npm.dsisolutions.biz:443/webdriverjs-puppet/-/webdriverjs-puppet-1.0.1.tgz#0dab63b9238534a7668df616778d710255f67c1d"
+  integrity sha512-0GhvO4KK3FiVsvqGRQXSObtVofGnVgrNOOCBPF0wg0FmeeDOMUJTiCeb1Wb6/fVqYbS0h9rebN7cr8GvnK8VAw==
+
 wrappy@1:
   version "1.0.2"
   resolved "https://npm.dsisolutions.biz:443/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"

@@ -5,7 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "selenium-webdriver": "^4.0.0-alpha.1",
-    "chromedriver": "^74.0.0"
+    "chromedriver": "^74.0.0",
+    "webdriverjs-puppet": "*"
   },
   "repository": {
     "type" : "git",

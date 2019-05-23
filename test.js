@@ -2,7 +2,7 @@ const { Builder, Capabilities } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const chromePath = require('chromedriver').path;
 
-const page = require('./src/page');
+const { page } = process.env.USE_PKG ? require('webdriverjs-puppet') : require('./src');
 
 chrome.setDefaultService(new chrome.ServiceBuilder(chromePath).build());
 
