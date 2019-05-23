@@ -6,6 +6,7 @@ This might be useful to those familiar with `puppeteer` or it's docs but must us
 ## Resources
 
 [Puppeteer API](https://github.com/GoogleChrome/puppeteer/blob/v1.16.0/docs/api.md)
+
 [Selenium Webdriver API](https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/)
 
 ## Example
