@@ -1,0 +1,12 @@
+{
+  "name": "webdriverjs-puppet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "chromedriver": "^74.0.0"
+  }
+}
